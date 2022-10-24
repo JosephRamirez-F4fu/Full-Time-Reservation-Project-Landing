@@ -145,3 +145,20 @@ header{
     justify-content: center;
     align-items: center;
 }
+
+.rest-img{
+    margin-right: 30px;
+}
+
+.rest-img img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.rest-img img:hover{
+  opacity: 20%;
+}
