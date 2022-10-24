@@ -138,3 +138,10 @@ header{
     background-color: #FFFFFF;
     color: #387E6E;
 }
+
+/* Mas buscados gallery*/
+.circle-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
