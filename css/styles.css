@@ -169,3 +169,16 @@ header{
     text-align: center;
     margin-top: 15px;
 }
+
+/*Linea divisora*/
+.contenedor-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+.line{
+    background-color: #000;
+    height: 1px;
+    width: 60%;
+}
