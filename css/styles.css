@@ -101,3 +101,13 @@ header{
     font-size: 35px;
     background-color: #86EDCE;
 }
+
+.contenedor{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+    text-align: center;
+    font-size: 24px;
+   
+}
