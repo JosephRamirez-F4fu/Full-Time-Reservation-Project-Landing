@@ -162,3 +162,10 @@ header{
 .rest-img img:hover{
   opacity: 20%;
 }
+
+.rest-img h3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+}
