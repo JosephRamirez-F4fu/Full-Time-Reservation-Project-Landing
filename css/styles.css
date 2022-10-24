@@ -121,3 +121,20 @@ header{
     height: 42px;
     outline: none;
 }
+
+/*button buscador box*/
+.btn-2 button{
+    font-weight: 700;
+    color: #FFFFFF;
+    padding: 9px 25px;
+    background: #0FB986;
+    border: 0px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.btn-2 button:hover{
+    background-color: #FFFFFF;
+    color: #387E6E;
+}
