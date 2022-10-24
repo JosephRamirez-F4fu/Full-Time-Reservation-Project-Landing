@@ -251,3 +251,39 @@ header{
     height: 50px;
     font-size: 30px;
 }
+
+/*footer*/
+footer{
+    background-color: #00DE9B;
+    height: 100%;
+    width: 100%;
+}
+
+.logos-list {
+    display: flex;
+    justify-content:center;
+    height: 100px;
+}
+
+.logos-list a{
+    margin-right: 30px;
+}
+
+.informacion{
+    display: flex;
+    justify-content:space-around;
+}
+
+.cont-mensaje{
+    height: 200px;
+}
+.mensaje{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.mensaje h1 {
+    height: 50px;
+    font-size: 30px;
+}
