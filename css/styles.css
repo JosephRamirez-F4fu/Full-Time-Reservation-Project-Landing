@@ -251,3 +251,20 @@ header{
     height: 50px;
     font-size: 30px;
 }
+
+/*footer*/
+footer{
+    background-color: #00DE9B;
+    height: 100%;
+    width: 100%;
+}
+
+.logos-list {
+    display: flex;
+    justify-content:center;
+    height: 100px;
+}
+
+.logos-list a{
+    margin-right: 30px;
+}
