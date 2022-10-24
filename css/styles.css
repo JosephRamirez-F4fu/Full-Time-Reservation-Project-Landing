@@ -82,3 +82,10 @@ header{
     background-color: #FFFFFF;
     color: #387E6E;
 }
+/* Barra de buscandor*/
+.buscador-box{
+    background-color: #387E6E;
+    display:block;
+    height: 350px;
+    width: 100%;
+}
