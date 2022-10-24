@@ -182,3 +182,31 @@ header{
     height: 1px;
     width: 60%;
 }
+
+/*Collage de imagenes */
+.Collage .fila-img .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    
+}
+
+.Collage .fila-img .img .img-cont{
+    height: 280px;
+}
+.Collage .fila-img .img .img-cont img {
+    width: 300px;
+    height: 280px;
+    margin: 2.5px;
+    transition: all 0.3s ease 0s;
+}
+
+.Collage .fila-img .img .img-cont img{
+    object-fit: cover;
+    object-position: center center;
+}
+
+.Collage .fila-img img:hover {
+    opacity:20%;
+}
