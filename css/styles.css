@@ -268,3 +268,22 @@ footer{
 .logos-list a{
     margin-right: 30px;
 }
+
+.informacion{
+    display: flex;
+    justify-content:space-around;
+}
+
+.cont-mensaje{
+    height: 200px;
+}
+.mensaje{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.mensaje h1 {
+    height: 50px;
+    font-size: 30px;
+}
